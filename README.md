@@ -45,6 +45,8 @@ Goals ： tomcat7:run
  
 ### 浏览器访问
 
+http://localhost:8080/Simple-SSM/test
+
 ![image](https://github.com/FaceGhost/Simple-SSM/blob/master/preview_01.png)
 
 
