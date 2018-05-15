@@ -47,4 +47,10 @@ Goals ： tomcat7:run
  
 ### 浏览器访问
 
-![](upload/faceghost/19250515/lppETtb19688355132467d91967fb9866c7b5b.png)
+![image](https://github.com/FaceGhost/Simple-SSM/tree/master/src/main/webapp/statics/Screenshots/main.png)
+
+
+#### 关注见鬼网微信公众号，获取有趣文章
+
+![image](https://github.com/FaceGhost/Simple-SSM/tree/master/src/main/webapp/statics/Screenshots/faceghost_qc.jpg)
+
