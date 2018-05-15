@@ -1,7 +1,5 @@
 # Simple-SSM
-史上最简单的spring+springMVC+mybaits整合SSM框架~增删改查
-
-github地址: https://github.com/FaceGhost/Simple-SSM
+史上最简单的spring+springMVC+mybaits整合SSM框架
 
 起因来源于搭建ssm系列教程，为此整理一个最简单CURD的全套源码，高手请勿喷，仅供参考学习，想学习的同学的可以参考下列文章
 
