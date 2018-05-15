@@ -47,10 +47,10 @@ Goals ： tomcat7:run
  
 ### 浏览器访问
 
-![image](https://github.com/FaceGhost/Simple-SSM/tree/master/src/main/webapp/statics/Screenshots/main.png)
+![image](https://github.com/FaceGhost/Simple-SSM/Screenshots/main.png)
 
 
 #### 关注见鬼网微信公众号，获取有趣文章
 
-![image](https://github.com/FaceGhost/Simple-SSM/tree/master/src/main/webapp/statics/Screenshots/faceghost_qc.jpg)
+![image](https://github.com/FaceGhost/Simple-SSM/Screenshots/faceghost_qc.jpg)
 
