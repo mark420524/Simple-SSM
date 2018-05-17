@@ -26,7 +26,11 @@
 		<listener>
 			<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 		</listener>
-
+		
+		<listener>
+	        <listener-class>com.faceghost.app.interceptor.WebAppContextInterceptor</listener-class>
+	    </listener>
+		
 	   <!-- 设置编码 -->
 		<filter>
 			<filter-name>encoding</filter-name>

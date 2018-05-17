@@ -9,7 +9,7 @@
 <body>
 	<div class="app">
 		<div class="back">
-			<a href="${basepath}test"><-</a>
+			<a href="${basepath}test"><-Back</a>
 		</div>
 		<div class="data">
 			<form action="${basepath}test/updateData" method="post">
