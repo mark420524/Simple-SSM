@@ -14,6 +14,8 @@
 
 - [教你一步步搭建ssm框架，第五步之分页插件pagehelper - 2018](https://faceghost.com/article/284941 "教你一步步搭建ssm框架，第五步之分页插件pagehelper - 2018") 
 
+- [教你一步步搭建ssm框架，第六步之EhCache缓存 - 2018](https://faceghost.com/article/895531 "教你一步步搭建ssm框架，第六步之EhCache缓存 - 2018") 
+
 ### 版本
 
 - jdk 1.7
